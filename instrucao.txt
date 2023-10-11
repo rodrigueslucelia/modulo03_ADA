@@ -1,0 +1,10 @@
+pip3 freeze > requirements.txt -----> Lista as dependências e suas versões.
+tem que ter o poetry ou o requirements, para configurar o ambiente
+.config/
+.lesson/
+.upm/
+.replit
+replit.nix
+
+Colocar o repositório público, colocar o nome com o da atividade no repository name
+commit author tem que etsar marcado o da conta do git
